@@ -5,6 +5,17 @@ Follow me on:
 🐦 <a href="https://twitter.com/Suparious">X</a>
 🤗 <a href="https://huggingface.co/Suparious">Hugging Face</a>
 
+### 🏆GitHub
+
+[![Suparious's GitHub stats](https://github-readme-stats.vercel.app/api?username=suparious&include_all_commits=true&count_private=true&theme=monokai&show_icons=true)](https://github.com/suparious)
+
+![](https://github-profile-trophy.vercel.app/?username=suparious&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+
+<!-- #### Visitors (since 15 March 2022)
+![Counter](https://count.getloli.com/get/@suparious?theme=asoul)
+ -->
+ 
 <!--
 **suparious/suparious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
