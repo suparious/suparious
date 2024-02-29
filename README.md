@@ -1,4 +1,4 @@
-Hi there 👋, I am a Principal Solutions Architect, primarily focused on infrastructure. With over 2 dacades of experience working in IT, Software Engineering and DevOps, I deploy scalable solutions using Infrastructure as Code.
+Hi there 👋, I am a Principal Solutions Architect, primarily focused on infrastructure. With over 2 decades of experience working in IT, Software Engineering and DevOps, I deploy scalable solutions using Infrastructure as Code.
 
 Follow me on: 
 🌐 <a href="https://www.linkedin.com/in/shaundprince">LinkedIn</a>
