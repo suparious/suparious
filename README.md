@@ -7,9 +7,9 @@ Follow me on:
 
 ### 🏆GitHub
 
-[![Suparious's GitHub stats](https://github-readme-stats.vercel.app/api?username=suparious&include_all_commits=true&count_private=true&theme=monokai&show_icons=true)](https://github.com/suparious)
+[![Suparious's GitHub stats]([https://github-readme-stats.vercel.app](https://github-profile-trophy-winning.vercel.app/)/api?username=suparious&include_all_commits=true&count_private=true&theme=monokai&show_icons=true)](https://github.com/suparious)
 
-![](https://github-profile-trophy.vercel.app/?username=suparious&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![]([https://github-profile-trophy.vercel.app]([https://github-profile-trophy-winning.vercel.app](https://github-profile-trophy-winning.vercel.app/)/)/?username=suparious&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- #### Visitors (since 15 March 2022)
 ![Counter](https://count.getloli.com/get/@suparious?theme=asoul)
