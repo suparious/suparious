@@ -7,6 +7,6 @@ Follow me on:
 
 ### 🏆 GitHub
 
-[![Suparious's GitHub stats](https://github-stats.solidrust.net/api?username=suparious&include_all_commits=true&count_private=true&theme=monokai&show_icons=true)](https://github.com/suparious)
-
+[![Suparious's GitHub stats](https://github-readme-stats.vercel.app/api?username=suparious&include_all_commits=true&count_private=true&theme=monokai&show_icons=true)](https://github.com/suparious)
+<!-- github-stats.solidrust.net -->
 ![GitHub Trophies](https://github-trophies.solidrust.net/?username=suparious&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
