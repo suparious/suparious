@@ -9,4 +9,4 @@ Follow me on:
 
 [![Suparious's GitHub stats](https://github-readme-stats.vercel.app/api?username=suparious&include_all_commits=true&count_private=true&theme=monokai&show_icons=true)](https://github.com/suparious)
 
-![GitHub Trophies](https://github-trophies.vercel.app/?username=suparious&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-trophies.solidrust.net/?username=suparious&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
